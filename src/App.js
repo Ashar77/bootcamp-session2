@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload the js react app .
+          Edit <code>src/App.js</code> and save to do not  reload the js react app .
         </p>
 
        
